@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Proyectos Unity\\4\u00BA ESNE\\GarciaDominguez_Lucas\\ESNEServer23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2822FE4-1DF8-47CE-B556-F68E88BEBFB8}|ESNEServer23\\ESNEServer23.csproj|f:\\proyectos unity\\4\u00BA esne\\garciadominguez_lucas\\esneserver23\\esneserver23\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2822FE4-1DF8-47CE-B556-F68E88BEBFB8}|ESNEServer23\\ESNEServer23.csproj|solutionrelative:esneserver23\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2822FE4-1DF8-47CE-B556-F68E88BEBFB8}|ESNEServer23\\ESNEServer23.csproj|F:\\Proyectos Unity\\4\u00BA ESNE\\GarciaDominguez_Lucas\\ESNEServer23\\esneserver23\\pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2822FE4-1DF8-47CE-B556-F68E88BEBFB8}|ESNEServer23\\ESNEServer23.csproj|solutionrelative:esneserver23\\pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2822FE4-1DF8-47CE-B556-F68E88BEBFB8}|ESNEServer23\\ESNEServer23.csproj|F:\\Proyectos Unity\\4\u00BA ESNE\\GarciaDominguez_Lucas\\ESNEServer23\\esneserver23\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2822FE4-1DF8-47CE-B556-F68E88BEBFB8}|ESNEServer23\\ESNEServer23.csproj|solutionrelative:esneserver23\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2822FE4-1DF8-47CE-B556-F68E88BEBFB8}|ESNEServer23\\ESNEServer23.csproj|F:\\Proyectos Unity\\4\u00BA ESNE\\GarciaDominguez_Lucas\\ESNEServer23\\esneserver23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2822FE4-1DF8-47CE-B556-F68E88BEBFB8}|ESNEServer23\\ESNEServer23.csproj|solutionrelative:esneserver23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Proyectos Unity\\4\u00BA ESNE\\GarciaDominguez_Lucas\\ESNEServer23\\ESNEServer23\\Program.cs",
+              "RelativeDocumentMoniker": "ESNEServer23\\Program.cs",
+              "ToolTip": "F:\\Proyectos Unity\\4\u00BA ESNE\\GarciaDominguez_Lucas\\ESNEServer23\\ESNEServer23\\Program.cs",
+              "RelativeToolTip": "ESNEServer23\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T23:52:13.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pool.cs",
+              "DocumentMoniker": "F:\\Proyectos Unity\\4\u00BA ESNE\\GarciaDominguez_Lucas\\ESNEServer23\\ESNEServer23\\Pool.cs",
+              "RelativeDocumentMoniker": "ESNEServer23\\Pool.cs",
+              "ToolTip": "F:\\Proyectos Unity\\4\u00BA ESNE\\GarciaDominguez_Lucas\\ESNEServer23\\ESNEServer23\\Pool.cs",
+              "RelativeToolTip": "ESNEServer23\\Pool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T23:52:13.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "F:\\Proyectos Unity\\4\u00BA ESNE\\GarciaDominguez_Lucas\\ESNEServer23\\ESNEServer23\\Connection.cs",
+              "RelativeDocumentMoniker": "ESNEServer23\\Connection.cs",
+              "ToolTip": "F:\\Proyectos Unity\\4\u00BA ESNE\\GarciaDominguez_Lucas\\ESNEServer23\\ESNEServer23\\Connection.cs",
+              "RelativeToolTip": "ESNEServer23\\Connection.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAADgv1oAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T23:52:13.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Listener.cs",
+              "DocumentMoniker": "F:\\Proyectos Unity\\4\u00BA ESNE\\GarciaDominguez_Lucas\\ESNEServer23\\ESNEServer23\\Listener.cs",
+              "RelativeDocumentMoniker": "ESNEServer23\\Listener.cs",
+              "ToolTip": "F:\\Proyectos Unity\\4\u00BA ESNE\\GarciaDominguez_Lucas\\ESNEServer23\\ESNEServer23\\Listener.cs",
+              "RelativeToolTip": "ESNEServer23\\Listener.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T23:52:13.931Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
