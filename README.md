@@ -4,7 +4,7 @@
 
 ## Description
 
-Online project done in Unity that allows players to play locally connected to the same port. 
+Online project done in Unity that allows players to play locally connected to the same port and also allows singleplayer with AIs. 
 
 ## Features
 
